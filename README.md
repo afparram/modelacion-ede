@@ -1,6 +1,6 @@
 # modelacion-ede
 
-Librería para orquestar `ModelacionEDE` sin modificar funciones matemáticas.
+Librería para orquestar `ModelacionEDE`.
 Uso básico:
 
 ```python
